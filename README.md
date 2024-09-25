@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a MERN Developer<br>Expertise in making creative and responsive web designs<br>Also I am learning Dsa in java<br>Also proficient in prompt engineering<br>I had worked at various organizations like Robohawk, curiosity, Av8rix, etc<br>I have 3+ years of experience of frontend and 1+ in backend 
+I'm a MERN Developer<br>Expertise in making creative and responsive web designs<br>Also I am learning Dsa in java<br>Also proficient in prompt engineering<br>I have had worked at various organizations like Robohawk, curiosity, Av8rix, etc<br>I have 3+ years of experience of frontend and 1+ in backend 
 
 
 ## 🌐 Socials:
